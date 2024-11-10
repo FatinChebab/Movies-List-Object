@@ -23,5 +23,6 @@ Chaque film est défini par les informations suivantes :
 - Déclarer et initialiser un tableau **movies** par quelques films;
 - La suppression et l'ajout effectués coté front-end doivent affecter le tableau **movies**;
 - Valider les champs lors d'une insertion d'un nouveau film;
+- Munir votre application par un menu pour faciliter la navigation;
 
 
